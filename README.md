@@ -1,2 +1,3 @@
 # qr-code-component
-My first project from Frontend Mentor (https://www.frontendmentor.io)
+
+My first project with Frontend Mentor (https://www.frontendmentor.io) while learning html and css.
